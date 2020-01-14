@@ -6,7 +6,8 @@
   •存储数据(使用sqlite)
 
 2.1 一个基本的列表应用程序
-  code:https://github.com/Dvlv/Tkinter-By-Example/blob/master/Code/Chapter2-1.py
+  code:
+    https://github.com/Dvlv/Tkinter-By-Example/blob/master/Code/Chapter2-1.py
 
 
 2.1.1 __init__
